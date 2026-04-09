@@ -1,0 +1,5 @@
+{
+  "name": "Microbe Evolution",
+  "description": "A 2D cell stage evolution game inspired by Spore. Eat smaller cells, avoid larger ones, and evolve to become the apex predator.",
+  "requestFramePermissions": []
+}
